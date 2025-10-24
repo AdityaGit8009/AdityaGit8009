@@ -5,10 +5,10 @@
 # Hi there 👋, I'm Aditya Pratap Vishwakarma  
 
 - 🔭 I’m currently working on **Java projects & Full Stack Development**  
-- 🌱 I’m currently learning **Spring Boot, REST APIs & Microservices**  
+- 🌱 I’m currently learning **Spring Boot & Microservices**  
 - 👯 I’m looking to collaborate on **Java + Spring Boot backend projects**  
 - 🤔 I’m looking for help with **building scalable full stack applications**  
-- 💬 Ask me about **Java, Spring Boot, JSP/Servlets, MySQL**  
+- 💬 Ask me about **Java, Spring Boot, JSP, MySQL**  
 - 📫 How to reach me: **adityapratap05072005@gmail.com**  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love solving coding problems & exploring new technologies 🚀  
@@ -23,8 +23,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### 🔧 Backend  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Servlets](https://img.shields.io/badge/Servlets%20&%20JSP-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)   
 
 ### 🎨 Frontend  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
