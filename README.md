@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Java + Spring Boot backend projects**  
 - 🤔 I’m looking for help with **building scalable full stack applications**  
 - 💬 Ask me about **Java, Spring Boot, JSP, MySQL**  
-- 📫 How to reach me: **adityapratap05072005@gmail.com**  
+- 📫 How to reach me: **adityapratap7391@gmail.com**  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love solving coding problems & exploring new technologies 🚀  
 
