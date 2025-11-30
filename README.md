@@ -37,5 +37,4 @@
 ---
 
 ## 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaGit8009&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGit8009&layout=compact&theme=radical)
+![Aditya's GitHub stats]([https://github-readme-stats.vercel.app/api?username=AdityaGit8009&show_icons=true&theme=radical](https://github.com/AdityaGit8009/AdityaGit8009/edit/main/README.md))  
