@@ -42,4 +42,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Aditya's GitHub stats]([https://github-readme-stats.vercel.app/api?username=AdityaGit8009&show_icons=true&theme=radical](https://github.com/AdityaGit8009/AdityaGit8009/edit/main/README.md))  
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaGit8009\&show_icons=true\&theme=radical)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AdityaGit8009\&theme=radical)
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGit8009\&layout=compact\&theme=radical)
+
