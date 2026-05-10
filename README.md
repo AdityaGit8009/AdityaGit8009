@@ -4,11 +4,11 @@
 
 # Hi there 👋, I'm Aditya Pratap Vishwakarma  
 
-- 🔭 I’m currently working on **Java projects & Full Stack Development**  
-- 🌱 I’m currently learning **Spring Boot & Microservices**  
-- 👯 I’m looking to collaborate on **Java + Spring Boot backend projects**  
+- 🔭 I’m currently working on **Full Stack Development**  
+- 🌱 I’m currently learning **PHP (Laravel) And CodeIgniter**  
+- 👯 I’m looking to collaborate on **PHP + Larvel And CodeIgniter backend projects**  
 - 🤔 I’m looking for help with **building scalable full stack applications**  
-- 💬 Ask me about **Java, Spring Boot, JSP, MySQL**  
+- 💬 Ask me about **PHP, Laravel, CodeIgniter MySQL**  
 - 📫 How to reach me: **adityapratap7391@gmail.com**  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love solving coding problems & exploring new technologies 🚀  
