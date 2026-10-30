@@ -1,166 +1,157 @@
 <div align="center">
 
-  <img src="./assets/banner.svg" width="100%" alt="SolvynCodeDev — Aditya Pratap Vishwakarma, PHP with Laravel, Java with Spring Boot, AI Explorer" />
+<img src="./assets/banner.svg" width="100%" alt="Aditya Pratap Vishwakarma — Full-Stack Developer, PHP with Laravel, Java with Spring Boot, AI Explorer" />
 
-  <br />
+<br>
 
-  <a href="https://github.com/AdityaGit8009"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-AdityaGit8009-161b22?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
-  <a href="https://aditya-portfolio.duckdns.org"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0e4429?style=for-the-badge&logo=vercel&logoColor=ffffff" /></a>
-  <a href="https://www.linkedin.com/in/vish-aditya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
+<a href="https://github.com/AdityaGit8009"><img src="https://img.shields.io/badge/GitHub-AdityaGit8009-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://aditya-portfolio.duckdns.org"><img src="https://img.shields.io/badge/Portfolio-Explore-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aditya-pratap-vish/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="mailto:adityapratap05072005@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-  <br /><br />
+<br><br>
 
-  <img alt="Animated developer headline" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=39D353&center=true&vCenter=true&width=980&lines=PHP+with+Laravel+%7C+Java+with+Spring+Boot;Aspiring+Full-Stack+Developer+%7C+AI+Explorer;Web+Applications+%7C+REST+APIs+%7C+Databases;Learn+%E2%80%A2+Build+%E2%80%A2+Share+%E2%80%A2+Repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=39D353&center=true&vCenter=true&width=950&lines=PHP+with+Laravel+%7C+Java+with+Spring+Boot;Full-Stack+Web+Development+%7C+REST+APIs;AI+Explorer+%7C+Lifelong+Learner;Learning.+Building.+Improving." alt="Animated headline: PHP with Laravel, Java with Spring Boot, and AI Explorer" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Hi! I'm **Aditya Pratap Vishwakarma**, a **Computer Science & Engineering student** and an **aspiring full-stack developer**. I enjoy building real-world websites, database-driven applications and REST APIs, while exploring how **AI and machine learning** can improve software products.
+Hello! I'm **Aditya Pratap Vishwakarma**, a **Computer Science and Engineering student** and aspiring **full-stack software developer** with practical exposure to frontend applications, backend services, database-backed systems and content management websites.
 
-- 🎓 Pursuing a **B.Tech in Computer Science & Engineering** at **B. N. College of Engineering and Technology, Lucknow (AKTU)** — third year, lateral entry.
-- ⚙️ Core focus: **PHP with Laravel** and **Java with Spring Boot**.
-- 🧩 Experience with frontend development, backend logic, API integration, MySQL and WordPress.
-- 🏢 **One year at Softpro India Pvt. Ltd.**, contributing to assigned team tasks and building professional development skills.
-- 🤖 **AI Explorer:** learning AI/ML concepts and experimenting with intelligent applications. *(Learning focus, not a claimed AI/ML professional specialization.)*
-- 🎬 Sharing development and technology learning under **SolvynCodeDev**. Learning content is delivered in **English and Hinglish**.
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **B. N. College of Engineering and Technology, Lucknow (AKTU)** — third year, lateral entry.
+- 💻 Main development areas: **PHP with Laravel** and **Java with Spring Boot**, alongside frontend and SQL.
+- 🏢 **One year of professional experience at Softpro India Pvt. Ltd.** supporting team-based work and improving technical skills.
+- 🌱 Currently exploring **AI/ML fundamentals**, intelligent applications and practical software engineering.
+- 🧠 I value hands-on development, clear communication, continuous learning and problem-solving.
 
 > **Beyond the Code, Beyond the Classroom, Toward a Better Life.**
 
-## 🧰 Technical Stack
+## 🛠️ Languages, Frameworks & Tools
 
 <div align="center">
 
-**Programming Languages**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=c,php,java&theme=dark" alt="C PHP Java" />
+<img src="https://skillicons.dev/icons?i=c,php,java,js&theme=dark" alt="C, PHP, Java, JavaScript" />
 
-**Frontend Development**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="HTML CSS JavaScript Bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" alt="HTML5, CSS3, Bootstrap" />
 
-**Backend Frameworks**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=laravel,spring&theme=dark" alt="Laravel Spring Boot" />
+<img src="https://skillicons.dev/icons?i=laravel,spring&theme=dark" alt="Laravel and Spring Boot" />
 
-**Database, CMS & Tools**
+**Database, CMS & Development Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,wordpress,git,github,vscode&theme=dark" alt="MySQL WordPress Git GitHub VS Code" />
+<img src="https://skillicons.dev/icons?i=mysql,wordpress,git,github,vscode&theme=dark" alt="MySQL, WordPress, Git, GitHub and VS Code" />
 
 </div>
 
-| Area | Skills and experience |
+| Domain | Technologies |
 | :--- | :--- |
-| **Programming** | C, PHP, Java |
-| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
-| **Backend** | PHP with Laravel, Java with Spring Boot, REST API development |
-| **Database & CMS** | MySQL, WordPress |
-| **Currently exploring** | AI/ML fundamentals and AI-powered application development |
+| **Programming languages** | C, PHP, Java |
+| **Frontend development** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Backend engineering** | PHP with Laravel, Java with Spring Boot, REST API development |
+| **Database and CMS** | MySQL, WordPress |
+| **Current exploration** | AI and machine learning fundamentals |
 
-### 🟩 Skills Heatmap — Resume-Based Visual
+### 📈 Engineering Focus — Progress Bars
 
 <div align="center">
-  <img src="./assets/skills-heatmap.svg" width="100%" alt="Skills heatmap featuring C, PHP, Java, HTML5, CSS3, JavaScript, Bootstrap, Laravel, Spring Boot, REST APIs, MySQL, WordPress and AI learning" />
+<img src="./assets/focus.svg" width="100%" alt="Resume-based focus bars for Laravel, Spring Boot, frontend, MySQL, WordPress and AI exploration" />
 </div>
 
-<sub>**Design illustration:** The squares are a visual representation of my technology interests and resume skills. They are not actual GitHub language contributions, proficiency percentages or daily coding streaks.</sub>
+### 📊 My Public Code — Live Language Distribution
+
+<div align="center">
+<img src="./assets/languages.svg" width="100%" alt="Automatically updated progress bars based on languages in public GitHub repositories" />
+</div>
+
+*Language percentages are calculated from GitHub's language-byte data across up to 50 recently updated non-fork public repositories, not from self-rated proficiency.*
 
 ## 💻 Projects & Practical Work
 
-<div align="center">
-  <img src="./assets/projects.svg" width="100%" alt="Four resume project areas: E-Commerce, LMS, HRMS, and college and WordPress websites" />
-</div>
+My resume includes practical work on the following applications:
 
-| Project | Technology | Description |
+| Project / Work | Technology | Focus |
 | :--- | :--- | :--- |
-| **E-Commerce Website** | PHP, MySQL | E-commerce web application with database-backed features. |
-| **Learning Management System (LMS)** | PHP with Laravel, MySQL | Learning management platform developed using Laravel. |
-| **Human Resource Management System (HRMS)** | Java with Spring Boot, MySQL | HRMS application built with Spring Boot and MySQL. |
-| **College Websites & EDORO.ai Website** | PHP, WordPress | Website development and CMS-related work. |
+| **E-Commerce Website** | PHP, MySQL | Database-backed shopping website |
+| **Learning Management System (LMS)** | PHP with Laravel, MySQL | Course and learning platform |
+| **Human Resource Management System (HRMS)** | Java with Spring Boot, MySQL | Workforce and HR operations |
+| **College Websites & EDORO.ai** | PHP, WordPress | Websites, CMS and content development |
 
-> These are projects named on my resume. They are not all necessarily available as public GitHub repositories.
+### 🔗 My Public GitHub Repositories — Automatically Updated
 
-🔎 **[Explore my public repositories](https://github.com/AdityaGit8009?tab=repositories)**
+Only **public, non-fork repositories** are linked here. The list is refreshed directly from GitHub; resume projects are not falsely matched to a repository with a different name.
 
-## 🏢 Professional Experience
+<!-- PUBLIC_REPOS_START -->
+[Browse my public repositories](https://github.com/AdityaGit8009?tab=repositories). Direct links are populated automatically on the first GitHub Actions update.
+<!-- PUBLIC_REPOS_END -->
 
-**Softpro India Pvt. Ltd.** — *Professional experience, 1 year*
+## 🏢 Experience
 
-- Collaborated with a team on assigned development-related tasks.
-- Gained practical experience in a professional work environment.
-- Continued developing technical skills, problem-solving and communication.
+**Softpro India Pvt. Ltd. — 1 year**
+
+- Worked with a team on assigned tasks in a professional development environment.
+- Practiced technical communication, collaboration and problem-solving.
+- Strengthened frontend, backend and practical application development experience.
 
 ## 🎓 Education
 
-| Qualification | Institute | Academic detail |
+| Qualification | Institute | Result / Status |
 | :--- | :--- | :--- |
-| **B.Tech — Computer Science & Engineering** | B. N. College of Engineering and Technology, Lucknow (AKTU) | Pursuing third year (lateral entry); 70.2% in second year |
-| **Diploma — Computer Science & Engineering** | CSJM Government Polytechnic, Ambedkarnagar (UPBTE) | 76.83% |
-| **Class 12** | JRVBSIC, Nawsanda (UP Board) | 69.4% |
-| **Class 10** | JRVBSIC, Nawsanda (UP Board) | 73.17% |
+| **B.Tech, CSE** | B. N. College of Engineering and Technology, Lucknow (AKTU) | 3rd year (lateral entry); 70.2% in second year |
+| **Diploma, CSE** | CSJM Government Polytechnic, Ambedkarnagar (UPBTE) | 76.83% |
+| **Class XII** | JRVBSIC, Nawsanda (UP Board) | 69.4% |
+| **Class X** | JRVBSIC, Nawsanda (UP Board) | 73.17% |
 
-## 📊 GitHub Activity — Live Statistics
+## 🟩 GitHub Contribution Calendar — Last 365 Days
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AdityaGit8009&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353" width="49%" alt="Live GitHub stats for AdityaGit8009" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdityaGit8009&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="49%" alt="Live GitHub language statistics for AdityaGit8009" />
+<img src="./assets/contributions.svg" width="100%" alt="Actual contribution calendar from the GitHub API, automatically refreshed every day" />
 </div>
 
-### 🔥 Real Contribution Streak
+The calendar is generated using **my recorded GitHub contribution history**. Dates without contributions remain unfilled; updates run automatically through GitHub Actions. [Open the native GitHub contributions view](https://github.com/AdityaGit8009).
+
+## 🔥 GitHub Streak & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaGit8009&theme=github-dark-blue&hide_border=false&background=0D1117&border=30363D&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="Actual GitHub contribution streak from public data" />
+
+<img src="https://streak-stats.demolab.com?user=AdityaGit8009&theme=github-dark-blue&hide_border=false&background=0D1117&border=30363D&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="Actual GitHub streak statistics" width="88%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGit8009&bg_color=0d1117&color=c9d1d9&line=39d353&point=7ee787&area_color=0e4429&area=true&hide_border=false&border_color=30363d" alt="Live contribution activity graph" width="100%" />
+
 </div>
 
-<sub>Real GitHub statistics above are served by third-party services and may be cached, delayed or temporarily unavailable. The live **Top Languages** card reports languages detected in public GitHub repositories, which is different from the complete skills list in my resume.</sub>
+*Third-party activity widgets may be delayed or temporarily unavailable. The contribution calendar above is rebuilt directly from GitHub's API.*
 
-## 🗓️ 365-Day Coding Consistency — GitHub-Style Demo
+## 🚀 What I'm Working Toward
 
-<div align="center">
-  <img src="./assets/consistency-demo.svg" width="100%" alt="Fully highlighted sample GitHub style green contribution calendar for a 365 day consistency challenge, labeled demo" />
-</div>
+- Designing better **backend APIs** using Laravel and Spring Boot.
+- Building responsive, maintainable **frontend experiences**.
+- Improving practical database design, integration and application architecture.
+- Exploring **AI-powered applications** while strengthening foundational software engineering skills.
+- Publishing useful projects, growing through feedback and contributing to public repositories.
 
-**Important:** This fully green calendar is a **visual example of a 365-day consistency challenge**, not my actual contribution record. The real activity chart remains available on my [GitHub profile](https://github.com/AdityaGit8009). README images do not change GitHub's contribution history.
-
-## 🎯 Areas I'm Focused On
-
-- **Backend engineering:** PHP/Laravel, Java/Spring Boot and REST APIs.
-- **Database-backed applications:** MySQL integration, data models and reliable application workflows.
-- **Frontend engineering:** accessible, responsive experiences with HTML, CSS, JavaScript and Bootstrap.
-- **AI exploration:** machine learning fundamentals and integration ideas for useful AI-enabled software.
-- **Continuous learning:** practical projects, stronger fundamentals and collaborative development.
-
-## 🎥 SolvynCodeDev — Learn, Build, Share
-
-**SolvynCodeDev** is my developer learning and content identity, focused on software engineering and practical programming education.
-
-**Content pillars:** PHP & Laravel · Java & Spring Boot · Frontend · SQL & Databases · Projects · AI exploration.
-
-**Teaching language:** English and Hinglish. **Written guides and descriptions:** English.
-
-## 🌱 Professional Strengths
-
-- Fast learner with a problem-solving mindset.
-- Clear communication and collaborative working style.
-- Positive attitude and willingness to grow through hands-on work.
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/AdityaGit8009"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aditya-pratap-vish/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://aditya-portfolio.duckdns.org"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View-0e4429?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:adityapratap05072005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-006d32?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
----
+## 🤝 Let's Connect
 
 <div align="center">
 
-**Learn consistently. Build thoughtfully. Share what matters.**
+<a href="https://github.com/AdityaGit8009"><img src="https://img.shields.io/badge/GitHub-Follow-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/aditya-pratap-vish/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://aditya-portfolio.duckdns.org"><img src="https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:adityapratap05072005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<sub>Aditya Pratap Vishwakarma · SolvynCodeDev · GitHub: <a href="https://github.com/AdityaGit8009">@AdityaGit8009</a></sub>
+<br><br>
+
+**Learn • Build • Improve • Share**
+
+<sub>© Aditya Pratap Vishwakarma — GitHub @AdityaGit8009</sub>
 
 </div>
