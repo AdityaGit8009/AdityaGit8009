@@ -92,11 +92,11 @@ Only **public, non-fork repositories** are linked here. The list is refreshed di
 | Repository | Description | Primary language |
 | :--- | :--- | :--- |
 | [innov-ecom](https://github.com/AdityaGit8009/innov-ecom) | Open-source project repository | PHP |
-| [lms-laravel](https://github.com/AdityaGit8009/lms-laravel) | Open-source project repository | Blade |
+| [lms-laravel](https://github.com/AdityaGit8009/lms-laravel) | Open-source project repository | Laravel |
 | [lms](https://github.com/AdityaGit8009/lms) | Learning Management System | PHP |
 | [OJP](https://github.com/AdityaGit8009/OJP) | Online Job Portal | HTML |
 | [FTS](https://github.com/AdityaGit8009/FTS) | Open-source project repository | JavaScript |
-| [SMS](https://github.com/AdityaGit8009/SMS) | Student Management System | PHP |
+| [SMS](https://github.com/AdityaGit8009/SMS) | Student Management System | PHP With Laravel |
 | [SecondGitRepo](https://github.com/AdityaGit8009/SecondGitRepo) | Open-source project repository | HTML |
 | [GitSecondRepo](https://github.com/AdityaGit8009/GitSecondRepo) | This is Second Git Repository | — |
 | [ApnaCollege-Project](https://github.com/AdityaGit8009/ApnaCollege-Project) | This is my Repository | HTML |
