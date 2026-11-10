@@ -157,7 +157,7 @@ The calendar is generated using **my recorded GitHub contribution history**. Dat
 <div align="center">
 
 <a href="https://github.com/AdityaGit8009"><img src="https://img.shields.io/badge/GitHub-Follow-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/aditya-pratap-vish/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/vish-aditya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://aditya-portfolio.duckdns.org"><img src="https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:adityapratap05072005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
