@@ -6,7 +6,7 @@
 
 <a href="https://github.com/AdityaGit8009"><img src="https://img.shields.io/badge/GitHub-AdityaGit8009-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <a href="https://aditya-portfolio.duckdns.org"><img src="https://img.shields.io/badge/Portfolio-Explore-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/aditya-pratap-vish/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="https://www.linkedin.com/in/vish-aditya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="mailto:adityapratap05072005@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br><br>
