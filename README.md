@@ -92,6 +92,7 @@ Only **public, non-fork repositories** are linked here. The list is refreshed di
 <!-- PUBLIC_REPOS_START -->
 | Repository | Description | Primary language |
 | :--- | :--- | :--- |
+| [EnterpriseOS](https://github.com/AdityaGit8009/EnterpriseOS) | Open-source project repository | Java |
 | [SMS](https://github.com/AdityaGit8009/SMS) | Student Management System | PHP |
 | [innov-ecom](https://github.com/AdityaGit8009/innov-ecom) | Open-source project repository | PHP |
 | [lms-laravel](https://github.com/AdityaGit8009/lms-laravel) | Open-source project repository | Blade |
@@ -101,7 +102,6 @@ Only **public, non-fork repositories** are linked here. The list is refreshed di
 | [SecondGitRepo](https://github.com/AdityaGit8009/SecondGitRepo) | Open-source project repository | HTML |
 | [GitSecondRepo](https://github.com/AdityaGit8009/GitSecondRepo) | This is Second Git Repository | — |
 | [ApnaCollege-Project](https://github.com/AdityaGit8009/ApnaCollege-Project) | This is my Repository | HTML |
-| [Portfolio](https://github.com/AdityaGit8009/Portfolio) | This is my portfolio website | HTML |
 
 [Browse all my public repositories](https://github.com/AdityaGit8009?tab=repositories)
 <!-- PUBLIC_REPOS_END -->
