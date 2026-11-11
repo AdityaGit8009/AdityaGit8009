@@ -68,10 +68,10 @@ Hello! I'm **Aditya Pratap Vishwakarma**, a **Computer Science and Engineering s
 ### 📊 My Public Code — Live Language Distribution
 
 <div align="center">
-<img src="./assets/languages.svg" width="100%" alt="Automatically updated progress bars based on languages in public GitHub repositories" />
+<img src="./assets/languages.svg" width="100%" alt="Automatically updated language-byte distribution across public repositories, including Java used by EnterpriseOS with Spring Boot" />
 </div>
 
-*Language percentages are calculated from GitHub's language-byte data across up to 50 recently updated non-fork public repositories, not from self-rated proficiency.*
+*Language percentages are calculated from GitHub's language-byte data across up to 50 recently updated, non-fork public repositories. Java includes the Spring Boot backend in [EnterpriseOS](https://github.com/AdityaGit8009/EnterpriseOS); these figures describe repository contents, not self-rated proficiency.*
 
 ## 💻 Projects & Practical Work
 
@@ -79,6 +79,7 @@ My resume includes practical work on the following applications:
 
 | Project / Work | Technology | Focus |
 | :--- | :--- | :--- |
+| **[EnterpriseOS](https://github.com/AdityaGit8009/EnterpriseOS)** | Java 25, Spring Boot, React, TypeScript, MySQL | Multi-tenant business operations platform with authenticated APIs, workflow modules, and database migrations |
 | **E-Commerce Website** | PHP, MySQL | Database-backed shopping website |
 | **Learning Management System (LMS)** | PHP with Laravel, MySQL | Course and learning platform |
 | **Human Resource Management System (HRMS)** | Java with Spring Boot, MySQL | Workforce and HR operations |
