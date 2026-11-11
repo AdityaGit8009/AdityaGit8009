@@ -136,7 +136,7 @@ def contribution_svg(weeks: list[list[dict]], total: int) -> str:
 
 def fetch_language_totals(repos: list[dict]) -> tuple[dict[str,int], int]:
     totals: dict[str,int] = defaultdict(int)
-    selected = [r for r in repos if (r.get("size") or 0)>0][:50]
+    selected = repos[:50]
     for repo in selected:
         full = repo.get("full_name", "")
         if not full.startswith(USER + "/"):

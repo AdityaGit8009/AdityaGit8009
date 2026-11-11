@@ -92,7 +92,7 @@ Only **public, non-fork repositories** are linked here. The list is refreshed di
 <!-- PUBLIC_REPOS_START -->
 | Repository | Description | Primary language |
 | :--- | :--- | :--- |
-| [EnterpriseOS](https://github.com/AdityaGit8009/EnterpriseOS) | Open-source project repository | Java |
+| [EnterpriseOS](https://github.com/AdityaGit8009/EnterpriseOS) | Multi-tenant business operations platform built with Java 25, Spring Boot, React, TypeScript, a… | Java |
 | [SMS](https://github.com/AdityaGit8009/SMS) | Student Management System | PHP |
 | [innov-ecom](https://github.com/AdityaGit8009/innov-ecom) | Open-source project repository | PHP |
 | [lms-laravel](https://github.com/AdityaGit8009/lms-laravel) | Open-source project repository | Blade |
