@@ -92,7 +92,9 @@ Only **public, non-fork repositories** are linked here. The list is refreshed di
 <!-- PUBLIC_REPOS_START -->
 | Repository | Description | Primary language |
 | :--- | :--- | :--- |
-| [EnterpriseOS](https://github.com/AdityaGit8009/EnterpriseOS) | Multi-tenant business operations platform built with Java 25, Spring Boot, React, TypeScript, a… | Java |
+| [Tempererature-Converter](https://github.com/AdityaGit8009/Tempererature-Converter) | Open-source project repository | JavaScript |
+| [EnterpriseOS](https://github.com/AdityaGit8009/EnterpriseOS) | Multi-tenant business operations platform built with Java 25, Spring Boot, React, TypeScript, a… | HTML |
+| [Calculator](https://github.com/AdityaGit8009/Calculator) | Open-source project repository | CSS |
 | [SMS](https://github.com/AdityaGit8009/SMS) | Student Management System | PHP |
 | [innov-ecom](https://github.com/AdityaGit8009/innov-ecom) | Open-source project repository | PHP |
 | [lms-laravel](https://github.com/AdityaGit8009/lms-laravel) | Open-source project repository | Blade |
@@ -100,8 +102,6 @@ Only **public, non-fork repositories** are linked here. The list is refreshed di
 | [OJP](https://github.com/AdityaGit8009/OJP) | Online Job Portal | HTML |
 | [FTS](https://github.com/AdityaGit8009/FTS) | Open-source project repository | JavaScript |
 | [SecondGitRepo](https://github.com/AdityaGit8009/SecondGitRepo) | Open-source project repository | HTML |
-| [GitSecondRepo](https://github.com/AdityaGit8009/GitSecondRepo) | This is Second Git Repository | — |
-| [ApnaCollege-Project](https://github.com/AdityaGit8009/ApnaCollege-Project) | This is my Repository | HTML |
 
 [Browse all my public repositories](https://github.com/AdityaGit8009?tab=repositories)
 <!-- PUBLIC_REPOS_END -->
