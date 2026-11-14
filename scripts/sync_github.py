@@ -20,13 +20,13 @@ ASSETS = ROOT / "assets"
 USER = "AdityaGit8009"
 API = "https://api.github.com"
 TOKEN = os.getenv("GH_TOKEN") or os.getenv("GITHUB_TOKEN")
-BG = "#0d1117"
-PANEL = "#0d1117"
-SUBTLE = "#161b22"
-BORDER = "#30363d"
-TEXT = "#e6edf3"
-MUTED = "#8b949e"
-GREEN = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
+BG = "#0c1727"
+PANEL = "#0c1727"
+SUBTLE = "#17263b"
+BORDER = "#293b52"
+TEXT = "#f1f5f9"
+MUTED = "#91a5bf"
+GREEN = ["#17263b", "#164e4a", "#21786e", "#2fb7a5", "#5eead4"]
 
 
 def request_json(url: str, payload: dict | None = None):
@@ -107,8 +107,8 @@ def contribution_svg(weeks: list[list[dict]], total: int) -> str:
     w, h = 1170, 276
     shapes = [svg_rect(1, 1, w-2, h-2, BG, 11, BORDER),
               svg_text(26, 40, f"{total:,} contributions in the last year", 23, TEXT, 650),
-              svg_text(w-27, 40, "REAL GITHUB ACTIVITY", 12, "#7ee787", 650, "end"),
-              svg_text(26, 63, "Public contribution history • refreshed daily", 12, MUTED)]
+              svg_text(w-27, 40, "BUILD LOG / 365 DAYS", 12, "#5eead4", 650, "end"),
+              svg_text(26, 63, "GitHub contribution history · refreshed daily", 12, MUTED)]
     x0, y0, step, cell = 78, 105, 16.5, 12
     month_last = None
     colors = {"NONE": GREEN[0], "FIRST_QUARTILE": GREEN[1], "SECOND_QUARTILE": GREEN[2], "THIRD_QUARTILE": GREEN[3], "FOURTH_QUARTILE": GREEN[4]}
@@ -151,21 +151,30 @@ def fetch_language_totals(repos: list[dict]) -> tuple[dict[str,int], int]:
 
 def language_svg(totals: dict[str,int], analyzed: int) -> str:
     pairs = sorted(totals.items(), key=lambda x:x[1], reverse=True)[:8]
-    w, h = 1170, 110 + max(len(pairs),1)*49 + 43
+    w, h = 1170, 285
+    colors = ["#5eead4", "#93c5fd", "#fbbf24", "#c4b5fd", "#fb7185", "#67e8f9", "#a3e635", "#fdba74"]
+    other = sum(totals.values()) - sum(raw for _, raw in pairs)
+    if other:
+        pairs.append(("Other", other))
+        colors.append("#91a5bf")
     shapes = [svg_rect(1,1,w-2,h-2,BG,11,BORDER),
-              svg_text(28,42,"Languages in My Public Repositories",23,TEXT,650),
-              svg_text(28,66, f"Actual GitHub language bytes • {analyzed} recently updated public repositories checked", 13,MUTED)]
+              svg_text(28,42,"The code behind the projects",23,TEXT,650),
+              svg_text(28,66, f"Language mix · {analyzed} public repositories checked", 13,MUTED)]
     if not pairs:
         shapes.append(svg_text(28,135,"No detectable public code languages yet.",17,MUTED))
     else:
         denom = sum(totals.values())
+        x = 28.0
         for i,(name,raw) in enumerate(pairs):
-            y = 100 + i*49
             pct = 100*raw/denom if denom else 0
-            shapes.append(svg_text(28,y+14,name[:23],15,TEXT,600))
-            shapes.append(svg_rect(235,y,825,17,SUBTLE,5))
-            shapes.append(svg_rect(235,y,max(2,round(825*pct/100)),17,["#39d353","#2ea043","#26a641","#238636","#006d32","#0e4429","#4ac26b","#7ee787"][i],5))
-            shapes.append(svg_text(1136,y+14,f"{pct:.1f}%",14,"#7ee787",650,"end"))
+            width = 1114 * pct / 100
+            shapes.append(svg_rect(round(x,3),94,round(width,3),20,colors[i]))
+            x += width
+            col, row = i % 3, i // 3
+            lx, ly = 28 + col * 373, 146 + row * 35
+            shapes.append(svg_rect(lx,ly-10,10,10,colors[i],3))
+            shapes.append(svg_text(lx+21,ly,name[:23],15,TEXT,600))
+            shapes.append(svg_text(lx+337,ly,f"{pct:.1f}%",14,MUTED,500,"end"))
     shapes.append(svg_text(28,h-22,"Repository language mix, not a proficiency or expertise score.",12,MUTED))
     return document("Live GitHub public repository language progress bars",w,h,shapes)
 
@@ -179,7 +188,7 @@ def repo_markup(repos: list[dict]) -> str:
         url = r.get("html_url", "")
         if not url.startswith(f"https://github.com/{USER}/"):
             continue
-        description = (r.get("description") or "Open-source project repository").replace("|", "\\|").replace("\n", " ").replace("\r", " ")
+        description = (r.get("description") or "Explore the source and project files").replace("|", "\\|").replace("\n", " ").replace("\r", " ")
         description = description[:95] + ("…" if len(description)>95 else "")
         language = (r.get("language") or "—").replace("|", "")
         # GitHub controls HTML/Markdown input. Escape description and avoid unexpected HTML in README.

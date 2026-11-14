@@ -1,171 +1,140 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Aditya Pratap Vishwakarma — Full-Stack Developer, PHP with Laravel, Java with Spring Boot, AI Explorer" />
-
-<br>
-
-<a href="https://github.com/AdityaGit8009"><img src="https://img.shields.io/badge/GitHub-AdityaGit8009-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://aditya-portfolio.duckdns.org"><img src="https://img.shields.io/badge/Portfolio-Explore-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/vish-aditya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-<a href="mailto:adityapratap05072005@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="./assets/banner.svg" width="100%" alt="Aditya Pratap Vishwakarma — full-stack developer in the making. Java, Spring Boot, PHP and Laravel." />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=39D353&center=true&vCenter=true&width=950&lines=PHP+with+Laravel+%7C+Java+with+Spring+Boot;Full-Stack+Web+Development+%7C+REST+APIs;AI+Explorer+%7C+Lifelong+Learner;Learning.+Building.+Improving." alt="Animated headline: PHP with Laravel, Java with Spring Boot, and AI Explorer" />
+<p align="center">
+<a href="https://aditya-portfolio.duckdns.org"><img src="https://img.shields.io/badge/PORTFOLIO-Explore_my_work-5EEAD4?style=for-the-badge&labelColor=101B2D&color=5EEAD4" alt="Explore my portfolio" /></a>
+<a href="https://www.linkedin.com/in/vish-aditya/"><img src="https://img.shields.io/badge/LINKEDIN-Let's_connect-93C5FD?style=for-the-badge&labelColor=101B2D&color=93C5FD" alt="Connect on LinkedIn" /></a>
+<a href="mailto:adityapratap05072005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_hello-FBBF24?style=for-the-badge&labelColor=101B2D&color=FBBF24" alt="Email Aditya" /></a>
+</p>
+
+<br><br>
+
+**[About](#01--behind-the-code) · [Projects](#02--selected-builds) · [Stack](#03--my-toolbox) · [Activity](#04--the-work-in-progress)**
 
 </div>
 
----
+## 01 / Behind the code
 
-## 👋 About Me
+I'm **Aditya Pratap Vishwakarma**, a CSE student building web applications with **Java / Spring Boot** and **PHP / Laravel**. I enjoy connecting the pieces: a useful interface, a clear API, and a database that makes sense.
 
-Hello! I'm **Aditya Pratap Vishwakarma**, a **Computer Science and Engineering student** and aspiring **full-stack software developer** with practical exposure to frontend applications, backend services, database-backed systems and content management websites.
+My work spans business applications, learning platforms and content-driven websites. I'm sharpening my backend engineering skills and exploring where **AI/ML** can make everyday software more useful.
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **B. N. College of Engineering and Technology, Lucknow (AKTU)** — third year, lateral entry.
-- 💻 Main development areas: **PHP with Laravel** and **Java with Spring Boot**, alongside frontend and SQL.
-- 🏢 **One year of professional experience at Softpro India Pvt. Ltd.** supporting team-based work and improving technical skills.
-- 🌱 Currently exploring **AI/ML fundamentals**, intelligent applications and practical software engineering.
-- 🧠 I value hands-on development, clear communication, continuous learning and problem-solving.
-
-> **Beyond the Code, Beyond the Classroom, Toward a Better Life.**
-
-## 🛠️ Languages, Frameworks & Tools
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,php,java,js&theme=dark" alt="C, PHP, Java, JavaScript" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" alt="HTML5, CSS3, Bootstrap" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=laravel,spring&theme=dark" alt="Laravel and Spring Boot" />
-
-**Database, CMS & Development Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,wordpress,git,github,vscode&theme=dark" alt="MySQL, WordPress, Git, GitHub and VS Code" />
-
-</div>
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Programming languages** | C, PHP, Java |
-| **Frontend development** | HTML5, CSS3, JavaScript, Bootstrap |
-| **Backend engineering** | PHP with Laravel, Java with Spring Boot, REST API development |
-| **Database and CMS** | MySQL, WordPress |
-| **Current exploration** | AI and machine learning fundamentals |
-
-### 📈 Engineering Focus — Progress Bars
-
-<div align="center">
-<img src="./assets/focus.svg" width="100%" alt="Resume-based focus bars for Laravel, Spring Boot, frontend, MySQL, WordPress and AI exploration" />
-</div>
-
-### 📊 My Public Code — Live Language Distribution
-
-<div align="center">
-<img src="./assets/languages.svg" width="100%" alt="Automatically updated language-byte distribution across public repositories, including Java used by EnterpriseOS with Spring Boot" />
-</div>
-
-*Language percentages are calculated from GitHub's language-byte data across up to 50 recently updated, non-fork public repositories. Java includes the Spring Boot backend in [EnterpriseOS](https://github.com/AdityaGit8009/EnterpriseOS); these figures describe repository contents, not self-rated proficiency.*
-
-## 💻 Projects & Practical Work
-
-My resume includes practical work on the following applications:
-
-| Project / Work | Technology | Focus |
+| Building with | Learning toward | Experience |
 | :--- | :--- | :--- |
-| **[EnterpriseOS](https://github.com/AdityaGit8009/EnterpriseOS)** | Java 25, Spring Boot, React, TypeScript, MySQL | Multi-tenant business operations platform with authenticated APIs, workflow modules, and database migrations |
-| **E-Commerce Website** | PHP, MySQL | Database-backed shopping website |
-| **Learning Management System (LMS)** | PHP with Laravel, MySQL | Course and learning platform |
-| **Human Resource Management System (HRMS)** | Java with Spring Boot, MySQL | Workforce and HR operations |
-| **College Websites & EDORO.ai** | PHP, WordPress | Websites, CMS and content development |
+| Spring Boot · Laravel · MySQL | Better APIs, application architecture and AI fundamentals | One year at **Softpro India Pvt. Ltd.** |
 
-### 🔗 My Public GitHub Repositories — Automatically Updated
+> Beyond the code. Beyond the classroom. Always something new to build.
 
-Only **public, non-fork repositories** are linked here. The list is refreshed directly from GitHub; resume projects are not falsely matched to a repository with a different name.
+## 02 / Selected builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 &nbsp; EnterpriseOS</h3>
+<p>A multi-tenant business operations platform, connecting business workflows through a full-stack application.</p>
+<p><code>Java 25</code> <code>Spring Boot</code> <code>React</code> <code>TypeScript</code> <code>MySQL</code></p>
+<p><a href="https://github.com/AdityaGit8009/EnterpriseOS"><b>Explore the repository →</b></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 &nbsp; Learning Management</h3>
+<p>Learning-platform development with Laravel, alongside a PHP learning management system.</p>
+<p><code>PHP</code> <code>Laravel</code> <code>Blade</code></p>
+<p><a href="https://github.com/AdityaGit8009/lms-laravel"><b>Laravel project →</b></a> &nbsp; <a href="https://github.com/AdityaGit8009/lms">PHP project →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 &nbsp; Student Management</h3>
+<p>A student management system exploring practical administration through a PHP application.</p>
+<p><code>PHP</code> <code>Web application</code></p>
+<p><a href="https://github.com/AdityaGit8009/SMS"><b>Explore the repository →</b></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 &nbsp; Frontend Workshop</h3>
+<p>Small builds for practicing interfaces and interaction: a calculator, temperature converter and browser game.</p>
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+<p><a href="https://github.com/AdityaGit8009/Calculator">Calculator →</a> &nbsp; <a href="https://github.com/AdityaGit8009/Tempererature-Converter">Converter →</a> &nbsp; <a href="https://github.com/AdityaGit8009/Tic-Tac-Toe">Tic-tac-toe →</a></p>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Explore more public repositories</b> · updated automatically</summary>
+
+<br>
 
 <!-- PUBLIC_REPOS_START -->
 | Repository | Description | Primary language |
 | :--- | :--- | :--- |
-| [Tempererature-Converter](https://github.com/AdityaGit8009/Tempererature-Converter) | Open-source project repository | JavaScript |
+| [Tempererature-Converter](https://github.com/AdityaGit8009/Tempererature-Converter) | Explore the source and project files | JavaScript |
 | [EnterpriseOS](https://github.com/AdityaGit8009/EnterpriseOS) | Multi-tenant business operations platform built with Java 25, Spring Boot, React, TypeScript, a… | HTML |
-| [Calculator](https://github.com/AdityaGit8009/Calculator) | Open-source project repository | CSS |
+| [Calculator](https://github.com/AdityaGit8009/Calculator) | Explore the source and project files | CSS |
 | [SMS](https://github.com/AdityaGit8009/SMS) | Student Management System | PHP |
-| [innov-ecom](https://github.com/AdityaGit8009/innov-ecom) | Open-source project repository | PHP |
-| [lms-laravel](https://github.com/AdityaGit8009/lms-laravel) | Open-source project repository | Blade |
+| [innov-ecom](https://github.com/AdityaGit8009/innov-ecom) | Explore the source and project files | PHP |
+| [lms-laravel](https://github.com/AdityaGit8009/lms-laravel) | Explore the source and project files | Blade |
 | [lms](https://github.com/AdityaGit8009/lms) | Learning Management System | PHP |
 | [OJP](https://github.com/AdityaGit8009/OJP) | Online Job Portal | HTML |
-| [FTS](https://github.com/AdityaGit8009/FTS) | Open-source project repository | JavaScript |
-| [SecondGitRepo](https://github.com/AdityaGit8009/SecondGitRepo) | Open-source project repository | HTML |
+| [FTS](https://github.com/AdityaGit8009/FTS) | Explore the source and project files | JavaScript |
+| [SecondGitRepo](https://github.com/AdityaGit8009/SecondGitRepo) | Explore the source and project files | HTML |
 
 [Browse all my public repositories](https://github.com/AdityaGit8009?tab=repositories)
 <!-- PUBLIC_REPOS_END -->
 
-## 🏢 Experience
+</details>
 
-**Softpro India Pvt. Ltd. — 1 year**
+## 03 / My toolbox
 
-- Worked with a team on assigned tasks in a professional development environment.
-- Practiced technical communication, collaboration and problem-solving.
-- Strengthened frontend, backend and practical application development experience.
+<img src="./assets/stack.svg" width="100%" alt="Frontend: HTML, CSS, JavaScript, Bootstrap. Backend: Java, Spring Boot, PHP, Laravel, REST APIs. Data and tools: MySQL, Git, GitHub, WordPress, VS Code." />
 
-## 🎓 Education
+**Also in my toolkit:** C programming. **Currently exploring:** AI/ML fundamentals and intelligent applications.
 
-| Qualification | Institute | Result / Status |
-| :--- | :--- | :--- |
-| **B.Tech, CSE** | B. N. College of Engineering and Technology, Lucknow (AKTU) | 3rd year (lateral entry); 70.2% in second year |
-| **Diploma, CSE** | CSJM Government Polytechnic, Ambedkarnagar (UPBTE) | 76.83% |
-| **Class XII** | JRVBSIC, Nawsanda (UP Board) | 69.4% |
-| **Class X** | JRVBSIC, Nawsanda (UP Board) | 73.17% |
+<details>
+<summary><b>The path so far</b> · experience, education and practical work</summary>
 
-## 🟩 GitHub Contribution Calendar — Last 365 Days
+### Experience
 
-<div align="center">
-<img src="./assets/contributions.svg" width="100%" alt="Actual contribution calendar from the GitHub API, automatically refreshed every day" />
-</div>
+**Softpro India Pvt. Ltd. · One year**
 
-The calendar is generated using **my recorded GitHub contribution history**. Dates without contributions remain unfilled; updates run automatically through GitHub Actions. [Open the native GitHub contributions view](https://github.com/AdityaGit8009).
+Worked in a team development environment, building practical frontend and backend skills alongside technical communication and problem-solving.
 
-## 🔥 GitHub Streak & Activity
+### Education
 
-<div align="center">
+- **B.Tech, Computer Science & Engineering** — B. N. College of Engineering and Technology, Lucknow (AKTU); lateral entry.
+- **Diploma, Computer Science & Engineering** — CSJM Government Polytechnic, Ambedkarnagar (UPBTE).
 
-<img src="https://streak-stats.demolab.com?user=AdityaGit8009&theme=github-dark-blue&hide_border=false&background=0D1117&border=30363D&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="Actual GitHub streak statistics" width="88%" />
+### Other practical work
 
-<br><br>
+E-commerce development with PHP and MySQL; HR management with Java and Spring Boot; college websites and content development using PHP and WordPress, including work on EDORO.ai.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGit8009&bg_color=0d1117&color=c9d1d9&line=39d353&point=7ee787&area_color=0e4429&area=true&hide_border=false&border_color=30363d" alt="Live contribution activity graph" width="100%" />
+</details>
 
-</div>
+## 04 / The work in progress
 
-*Third-party activity widgets may be delayed or temporarily unavailable. The contribution calendar above is rebuilt directly from GitHub's API.*
+**Current direction:** stronger backend APIs, clearer database design, responsive interfaces and practical AI exploration.
 
-## 🚀 What I'm Working Toward
+<img src="./assets/contributions.svg" width="100%" alt="Aditya's actual GitHub contribution calendar, refreshed by GitHub Actions." />
 
-- Designing better **backend APIs** using Laravel and Spring Boot.
-- Building responsive, maintainable **frontend experiences**.
-- Improving practical database design, integration and application architecture.
-- Exploring **AI-powered applications** while strengthening foundational software engineering skills.
-- Publishing useful projects, growing through feedback and contributing to public repositories.
+<img src="./assets/languages.svg" width="100%" alt="Language distribution calculated from public repository code on GitHub." />
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/AdityaGit8009"><img src="https://img.shields.io/badge/GitHub-Follow-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/vish-aditya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://aditya-portfolio.duckdns.org"><img src="https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:adityapratap05072005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<sub>Charts refresh daily from GitHub's API. Language share measures code bytes across up to 50 recent public repositories, rather than proficiency. <a href="https://github.com/AdityaGit8009?tab=repositories">Browse the code →</a></sub>
 
 <br><br>
 
-**Learn • Build • Improve • Share**
+---
 
-<sub>© Aditya Pratap Vishwakarma — GitHub @AdityaGit8009</sub>
+<div align="center">
+
+### Have something useful in mind? Let's build it.
+
+Happy to connect over **Java, Laravel, web applications and learning together**.
+
+**[Portfolio](https://aditya-portfolio.duckdns.org) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/vish-aditya/) &nbsp; / &nbsp; [Email](mailto:adityapratap05072005@gmail.com)**
+
+<br>
+
+<img src="./assets/footer.svg" width="100%" alt="Learn. Build. Refine. Repeat. — AdityaGit8009" />
 
 </div>

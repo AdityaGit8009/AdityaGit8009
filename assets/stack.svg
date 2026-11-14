@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="228" viewBox="0 0 1200 228" role="img" aria-labelledby="title">
+  <title id="title">My toolbox — frontend, backend, data and development tools</title>
+  <style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:Consolas,'Courier New',monospace}</style>
+  <rect x="1" y="1" width="382" height="226" rx="14" fill="#0C1727" stroke="#2A4054"/>
+  <rect x="409" y="1" width="382" height="226" rx="14" fill="#0C1727" stroke="#2A4054"/>
+  <rect x="817" y="1" width="382" height="226" rx="14" fill="#0C1727" stroke="#2A4054"/>
+  <text x="27" y="41" class="mono" font-size="13" letter-spacing="2" fill="#5EEAD4">01 / THE EXPERIENCE</text>
+  <text x="27" y="79" font-size="28" font-weight="650" fill="#F1F5F9">Frontend</text>
+  <path d="M27 103H355" stroke="#2A4054"/>
+  <text x="27" y="139" font-size="20" fill="#C2D0E2">HTML · CSS · JavaScript</text>
+  <text x="27" y="171" font-size="20" fill="#C2D0E2">Bootstrap</text>
+  <text x="27" y="205" class="mono" font-size="12" fill="#91A5BF">Interfaces that make sense.</text>
+  <text x="435" y="41" class="mono" font-size="13" letter-spacing="2" fill="#93C5FD">02 / THE ENGINE</text>
+  <text x="435" y="79" font-size="28" font-weight="650" fill="#F1F5F9">Backend</text>
+  <path d="M435 103H763" stroke="#2A4054"/>
+  <text x="435" y="139" font-size="20" fill="#C2D0E2">Java · Spring Boot</text>
+  <text x="435" y="171" font-size="20" fill="#C2D0E2">PHP · Laravel · REST APIs</text>
+  <text x="435" y="205" class="mono" font-size="12" fill="#91A5BF">Logic behind the experience.</text>
+  <text x="843" y="41" class="mono" font-size="13" letter-spacing="2" fill="#FBBF24">03 / THE FOUNDATION</text>
+  <text x="843" y="79" font-size="28" font-weight="650" fill="#F1F5F9">Data + tools</text>
+  <path d="M843 103H1171" stroke="#2A4054"/>
+  <text x="843" y="139" font-size="20" fill="#C2D0E2">MySQL · Git · GitHub</text>
+  <text x="843" y="171" font-size="20" fill="#C2D0E2">WordPress · VS Code</text>
+  <text x="843" y="205" class="mono" font-size="12" fill="#91A5BF">Structure. Version. Improve.</text>
+</svg>
