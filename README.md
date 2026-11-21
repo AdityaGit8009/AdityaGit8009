@@ -42,11 +42,11 @@ The latest commit on each of my five most recently updated default branches. Eac
 <!-- RECENT_WORK_START -->
 | Date (UTC) | Project | Latest default-branch commit |
 | --- | --- | --- |
-| 2026-11-21 | [EnterpriseOS](https://github.com/AdityaGit8009/EnterpriseOS) | [Document source entry points and validate builds before Windows startup](https://github.com/AdityaGit8009/EnterpriseOS/commit/efbcc3645ec3458562eb20a2c029c7ff859d7aae) |
-| 2026-11-21 | [Tic-Tac-Toe](https://github.com/AdityaGit8009/Tic-Tac-Toe) | [Document and organize the browser game and its round logic](https://github.com/AdityaGit8009/Tic-Tac-Toe/commit/2d7029669c6098445d6106af6aee5215e5bc3da0) |
-| 2026-11-21 | [Calculator](https://github.com/AdityaGit8009/Calculator) | [Document and repair the calculator entry point and keypad](https://github.com/AdityaGit8009/Calculator/commit/6e85e74484d3eadf6619d04a4c091dc30d0f6c11) |
-| 2026-11-12 | [Tempererature-Converter](https://github.com/AdityaGit8009/Tempererature-Converter) | [docs: document verified technology stack](https://github.com/AdityaGit8009/Tempererature-Converter/commit/6bf7e854a39df0ce2f2cba50f9856bc8fef669d3) |
-| 2026-11-10 | [SMS](https://github.com/AdityaGit8009/SMS) | [Revise README for better clarity and organization](https://github.com/AdityaGit8009/SMS/commit/0d3cfd1a18d31b7e69bf971929c10d18452ecafd) |
+| 2026-11-21 | [JQuery-Task](https://github.com/AdityaGit8009/JQuery-Task) | [Exercise form validation, media state and keyboard behavior in Chromium](https://github.com/AdityaGit8009/JQuery-Task/commit/dc235f9ea7bec4784ed1dd2a887e36226912766a) |
+| 2026-11-21 | [JS-Task](https://github.com/AdityaGit8009/JS-Task) | [Document the live directory, local setup, and twenty exercise prompts](https://github.com/AdityaGit8009/JS-Task/commit/475452433dafccedcd8782c818ce640c69770b69) |
+| 2026-11-21 | [lms-laravel](https://github.com/AdityaGit8009/lms-laravel) | [Exclude installation-specific cached configuration from the bundled s…](https://github.com/AdityaGit8009/lms-laravel/commit/a625977496cd0e2c8bb448902ca3c6975ee61e8e) |
+| 2026-11-21 | [lms](https://github.com/AdityaGit8009/lms) | [Exercise the real guest redirect in the application entry test](https://github.com/AdityaGit8009/lms/commit/bd6afd683793d315658d34579cfeb2206788b12e) |
+| 2026-11-21 | [Web-BNMC](https://github.com/AdityaGit8009/Web-BNMC) | [Run the college navigation checks for pushes and pull requests](https://github.com/AdityaGit8009/Web-BNMC/commit/01c6fc955b03f78bdc9d6a1328e68afd83ce6f4a) |
 <!-- RECENT_WORK_END -->
 
 <details>
@@ -57,16 +57,16 @@ The ten most recently pushed repositories I own, excluding forks, archives and t
 <!-- PUBLIC_REPOS_START -->
 | Repository | Primary language | Last push (UTC) |
 | --- | --- | --- |
-| [EnterpriseOS](https://github.com/AdityaGit8009/EnterpriseOS) | HTML | 2026-11-21 |
-| [Tic-Tac-Toe](https://github.com/AdityaGit8009/Tic-Tac-Toe) | CSS | 2026-11-21 |
-| [Calculator](https://github.com/AdityaGit8009/Calculator) | CSS | 2026-11-21 |
-| [Tempererature-Converter](https://github.com/AdityaGit8009/Tempererature-Converter) | JavaScript | 2026-11-12 |
-| [SMS](https://github.com/AdityaGit8009/SMS) | PHP | 2026-11-10 |
-| [innov-ecom](https://github.com/AdityaGit8009/innov-ecom) | PHP | 2026-11-10 |
-| [lms-laravel](https://github.com/AdityaGit8009/lms-laravel) | Blade | 2026-11-10 |
-| [lms](https://github.com/AdityaGit8009/lms) | PHP | 2026-11-10 |
-| [OJP](https://github.com/AdityaGit8009/OJP) | HTML | 2026-11-10 |
-| [FTS](https://github.com/AdityaGit8009/FTS) | JavaScript | 2026-11-10 |
+| [JQuery-Task](https://github.com/AdityaGit8009/JQuery-Task) | HTML | 2026-11-21 |
+| [JS-Task](https://github.com/AdityaGit8009/JS-Task) | HTML | 2026-11-21 |
+| [lms](https://github.com/AdityaGit8009/lms) | PHP | 2026-11-21 |
+| [lms-laravel](https://github.com/AdityaGit8009/lms-laravel) | Blade | 2026-11-21 |
+| [TajHotel](https://github.com/AdityaGit8009/TajHotel) | HTML | 2026-11-21 |
+| [Web-BNMC](https://github.com/AdityaGit8009/Web-BNMC) | HTML | 2026-11-21 |
+| [ApnaCollege-Project](https://github.com/AdityaGit8009/ApnaCollege-Project) | HTML | 2026-11-21 |
+| [OJP](https://github.com/AdityaGit8009/OJP) | HTML | 2026-11-21 |
+| [GitSecondRepo](https://github.com/AdityaGit8009/GitSecondRepo) | — | 2026-11-21 |
+| [Youtube-Frontend](https://github.com/AdityaGit8009/Youtube-Frontend) | HTML | 2026-11-21 |
 <!-- PUBLIC_REPOS_END -->
 
 [Browse all public repositories](https://github.com/AdityaGit8009?tab=repositories)
