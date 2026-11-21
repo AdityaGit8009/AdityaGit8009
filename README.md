@@ -1,6 +1,7 @@
 <h1 align="center"><img src="./assets/banner.svg" width="100%" alt="Aditya Pratap Vishwakarma · Java and Spring Boot · PHP and Laravel"></h1>
 
 <p align="center">
+  <a href="https://adityagit8009.github.io/Portfolio/"><b>Portfolio</b></a> ·
   <a href="https://github.com/AdityaGit8009/EnterpriseOS"><b>Explore EnterpriseOS</b></a> ·
   <a href="https://adityagit8009.github.io/Calculator/">Try the calculator</a> ·
   <a href="https://www.linkedin.com/in/vish-aditya/">LinkedIn</a> ·
@@ -87,7 +88,7 @@ I also work with C. Right now I'm focusing on API design, relational data modeli
 
 My other work includes PHP and MySQL e-commerce development, HR management with Java and Spring Boot, and PHP and WordPress work on college websites and EDORO.ai.
 
-[Personal portfolio](https://aditya-portfolio.duckdns.org) · [Portfolio source](https://github.com/AdityaGit8009/Portfolio)
+[Personal portfolio](https://adityagit8009.github.io/Portfolio/) · [Portfolio source](https://github.com/AdityaGit8009/Portfolio)
 
 </details>
 
