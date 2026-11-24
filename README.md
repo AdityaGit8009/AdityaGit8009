@@ -42,11 +42,11 @@ The latest commit on each of my five most recently updated default branches. Eac
 <!-- RECENT_WORK_START -->
 | Date (UTC) | Project | Latest default-branch commit |
 | --- | --- | --- |
+| 2026-11-23 | [college-placement-portal](https://github.com/AdityaGit8009/college-placement-portal) | [Format placement portal sources, views and XML configuration](https://github.com/AdityaGit8009/college-placement-portal/commit/6b99bb13a44273d7329ef3c175c966ba4ed0838a) |
+| 2026-11-23 | [campus-connect](https://github.com/AdityaGit8009/campus-connect) | [Format Campus Connect application code and workflow tests](https://github.com/AdityaGit8009/campus-connect/commit/61a0f81beeea834090282b025218086de30314a5) |
+| 2026-11-23 | [hrms](https://github.com/AdityaGit8009/hrms) | [Introduce the PeopleOps project in the repository README](https://github.com/AdityaGit8009/hrms/commit/10c9b5c60df652a79ebbe98ceac4a70deaec3b63) |
 | 2026-11-21 | [Spotify-clone](https://github.com/AdityaGit8009/Spotify-clone) | [Document local launch, the original recordings, and player controls](https://github.com/AdityaGit8009/Spotify-clone/commit/82cd6609d7bd9274b6ff2f159cfb189cff3502f2) |
 | 2026-11-21 | [SecondGitRepo](https://github.com/AdityaGit8009/SecondGitRepo) | [Document both local preview options](https://github.com/AdityaGit8009/SecondGitRepo/commit/c122b790a1eb71a9ab62d2d61dab99d6ae1673fc) |
-| 2026-11-21 | [FTS](https://github.com/AdityaGit8009/FTS) | [Validate admin edits and record closure only when the status changes](https://github.com/AdityaGit8009/FTS/commit/2d94f2dcc8e6541933eb093a0310bae487f364d1) |
-| 2026-11-21 | [IIMM-Ayodhya](https://github.com/AdityaGit8009/IIMM-Ayodhya) | [Initialize repository with clone instructions](https://github.com/AdityaGit8009/IIMM-Ayodhya/commit/67b5e284d58b43edd2709df0fdf15878b2b813f8) |
-| 2026-11-21 | [SMS](https://github.com/AdityaGit8009/SMS) | [Repair student assignments and verify the documented role navigation](https://github.com/AdityaGit8009/SMS/commit/b2526b47e54b49d4fd074d55de931c7aaf8c6ae3) |
 <!-- RECENT_WORK_END -->
 
 <details>
@@ -57,6 +57,9 @@ The ten most recently pushed repositories I own, excluding forks, archives and t
 <!-- PUBLIC_REPOS_START -->
 | Repository | Primary language | Last push (UTC) |
 | --- | --- | --- |
+| [college-placement-portal](https://github.com/AdityaGit8009/college-placement-portal) | Java | 2026-11-23 |
+| [campus-connect](https://github.com/AdityaGit8009/campus-connect) | JavaScript | 2026-11-23 |
+| [hrms](https://github.com/AdityaGit8009/hrms) | JavaScript | 2026-11-23 |
 | [Spotify-clone](https://github.com/AdityaGit8009/Spotify-clone) | JavaScript | 2026-11-21 |
 | [SecondGitRepo](https://github.com/AdityaGit8009/SecondGitRepo) | HTML | 2026-11-21 |
 | [FTS](https://github.com/AdityaGit8009/FTS) | JavaScript | 2026-11-21 |
@@ -64,9 +67,6 @@ The ten most recently pushed repositories I own, excluding forks, archives and t
 | [SMS](https://github.com/AdityaGit8009/SMS) | PHP | 2026-11-21 |
 | [lms-laravel](https://github.com/AdityaGit8009/lms-laravel) | Blade | 2026-11-21 |
 | [Web-Robomart-clone](https://github.com/AdityaGit8009/Web-Robomart-clone) | HTML | 2026-11-21 |
-| [Keyboard-frontend](https://github.com/AdityaGit8009/Keyboard-frontend) | HTML | 2026-11-21 |
-| [lms](https://github.com/AdityaGit8009/lms) | Blade | 2026-11-21 |
-| [JQuery-Task](https://github.com/AdityaGit8009/JQuery-Task) | HTML | 2026-11-21 |
 <!-- PUBLIC_REPOS_END -->
 
 [Browse all public repositories](https://github.com/AdityaGit8009?tab=repositories)
